@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Like Him",
+  "base_artist": "Tyler, The Creator",
+  "createdAt": "2026-01-14T02:24:06.246455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Like Him",
+      "artist": "Princess Nokia",
+      "has_synced": true,
+      "path": "select/01_I_Like_Him_Princess_Nokia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Only A Paper Moon / I Like Him",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/02_It's_Only_A_Paper_Moon___I_Like_Him_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Only A Paper Moon  I Like Him",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/03_It's_Only_A_Paper_Moon_I_Like_Him_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It’s Only a Paper Moon \u0000 I Like Him",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/04_It’s_Only_a_Paper_Moon_\u0000_I_Like_Him_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who Is Like Him?",
+      "artist": "Trip Lee",
+      "has_synced": true,
+      "path": "select/05_Who_Is_Like_Him_Trip_Lee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ofana Naye (Nobody Like Him)",
+      "artist": "Ladysmith Black Mambazo",
+      "has_synced": false,
+      "path": "select/06_Ofana_Naye_(Nobody_Like_Him)_Ladysmith_Black_Mambazo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Not Like Him",
+      "artist": "Carly Simon",
+      "has_synced": true,
+      "path": "select/07_It's_Not_Like_Him_Carly_Simon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just Like Him",
+      "artist": "Brandy Clark",
+      "has_synced": true,
+      "path": "select/08_Just_Like_Him_Brandy_Clark.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wanna Be Like Him",
+      "artist": "N.O.R.E. feat. Mashonda",
+      "has_synced": false,
+      "path": "select/09_Wanna_Be_Like_Him_N.O.R.E._feat._Mashonda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wanna Be Like Him (feat. Mashonda)",
+      "artist": "N.O.R.E.",
+      "has_synced": false,
+      "path": "select/10_Wanna_Be_Like_Him_(feat._Mashonda)_N.O.R.E..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's Just Like Him",
+      "artist": "Ricky Dillard & New G",
+      "has_synced": false,
+      "path": "select/11_That's_Just_Like_Him_Ricky_Dillard_&_New_G.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk Like Him",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/12_Walk_Like_Him_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smell Like Him",
+      "artist": "Picture This",
+      "has_synced": false,
+      "path": "select/13_Smell_Like_Him_Picture_This.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You'll Never Be Like Him",
+      "artist": "Brooke Hogan",
+      "has_synced": true,
+      "path": "select/14_You'll_Never_Be_Like_Him_Brooke_Hogan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Only A Paper Moon/I Like Him",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/15_It's_Only_A_Paper_Moon_I_Like_Him_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Can You Love Him (You Don't Even Like Him)",
+      "artist": "Reckless Kelly",
+      "has_synced": false,
+      "path": "select/16_How_Can_You_Love_Him_(You_Don't_Even_Like_Him)_Reckless_Kelly.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Like Him (Official Music Video)",
+      "artist": "Princess Nokia",
+      "has_synced": true,
+      "path": "select/17_I_Like_Him_(Official_Music_Video)_Princess_Nokia.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Jesus I Jus Wan Be Like Him",
+      "artist": "Jx Zero",
+      "has_synced": true,
+      "path": "select/18_Jesus_I_Jus_Wan_Be_Like_Him_Jx_Zero.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wanna Be Like Him (Album Version Explicit)",
+      "artist": "N.O.R.E.",
+      "has_synced": false,
+      "path": "select/19_Wanna_Be_Like_Him_(Album_Version_Explicit)_N.O.R.E..txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Wannna Be Like Him Ft. Mashonda",
+      "artist": "N.O.R.E.",
+      "has_synced": false,
+      "path": "select/20_Wannna_Be_Like_Him_Ft._Mashonda_N.O.R.E..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like Him",
+      "artist": "Tyler, The Creator",
+      "has_synced": false,
+      "path": "select/pl_01_Like_Him_Tyler,_The_Creator.txt"
+    }
+  ]
+}
